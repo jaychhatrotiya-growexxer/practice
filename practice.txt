@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 jay
 Akshat
-=======
 Yashraj
->>>>>>> b9d945e (new modification)
+Sahil
